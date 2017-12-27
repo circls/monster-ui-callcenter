@@ -11,16 +11,17 @@ var app = {
 
 	i18n: {
 		'en-US': { customCss: false },
-					'de-DE': { customCss: false },
-					'dk-DK': { customCss: false },
-					'it-IT': { customCss: false },
-					'fr-FR': { customCss: false },
-					'nl-NL': { customCss: false },
-					'ro-RO': { customCss: false },
-					'ru-RU': { customCss: false },
-					'pt-PT': { customCss: false },
-					'zh-CN': { customCss: false },
-					'es-ES': { customCss: false }
+		'en-NZ': { customCss: false },
+		'de-DE': { customCss: false },
+		'dk-DK': { customCss: false },
+		'it-IT': { customCss: false },
+		'fr-FR': { customCss: false },
+		'nl-NL': { customCss: false },
+		'ro-RO': { customCss: false },
+		'ru-RU': { customCss: false },
+		'pt-PT': { customCss: false },
+		'zh-CN': { customCss: false },
+		'es-ES': { customCss: false }
 	},
 
 	load: function(callback){
